@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"",lang:"zh-CN",frontmatter:{home:!0,heroText:"Suilta Pico \u7684\u535A\u5BA2",tagline:" ",footer:"\u672C\u535A\u5BA2\u91C7\u7528 CC BY-NC-SA 4.0 \u8FDB\u884C\u8BB8\u53EF"},excerpt:"",headers:[],git:{},filePathRelative:"README.md"};export{e as data};
